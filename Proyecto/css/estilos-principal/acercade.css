@@ -1,0 +1,11 @@
+.quienes-somos{
+    width:35%;
+    margin-left:4%;
+}
+.acerca-imagen{
+    width: 35%;
+    height: 200px;
+    border: 1px solid blue;
+    margin-left:55% ;
+    margin-top: -10%;
+}
